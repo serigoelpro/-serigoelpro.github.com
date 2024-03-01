@@ -1,0 +1,50 @@
+div - agrupa elementos, puede agrupar elementos dentro de otro elemento para al momento de modificar propiedad(ej. css) para que todo el grupo comparta las propiedades del diseño.
+
+display:"block" - le crea un block al texto
+display: "inline-block" - hace que los textos se alinieen,( ej: uno a lado del otro)
+
+width- controla el ancho del elemento al que le estamos aplicando
+
+
+background-color: #666ab - para cambiar el color de fondo
+
+color - se utiliza para cambiar el color del texto
+
+tipografia - para aplicar todo los cambios de escribe dentro del body, usaremos font-family:
+grosor de la fuente - font-wight:200 (utliizado para negritas o para que sea mas delgada la letra)
+
+text-align:center - para alinear o justificar texto, este se pone en la seccion a la que se le quiere aplicar
+
+Titulos:
+p: es letra normal de texto
+h1: se pone el titulo principal( el texto se hace mas grande como si fuera titulo 1)
+h2: 
+h3:
+h4:
+h5:
+h6:
+
+paddin: esto le da el margen de la separacion del texto del cuadro
+margin: esto le da el margen a toda la orilla de pagina: se pone en body
+margin-left
+margin-right
+margin-top
+marign-bottom
+
+section - es una etiqueta que solo separa secciones sobre la pagina
+
+font-size -  permite alterar el tamaño de la fuente de las letras
+
+LISTAS:
+ol - para hacer listas que tienen un orden, se colocan con  li
+ul - listas no ordenadas, sirven para colocar elementos que tienen relacion entre si, tambien se colocan con li
+dl - dt:para definir un termino y dd: para colocar su definicion o contenido
+
+
+usamos href para rederigir a algun lugar como por ejemplo: <a href="https://twitter.com/sergiobldrs0" target="_blank">Twitter</a></li>
+usamos target="_blank" si queremos que al momento que carge esa pagian se habra otra
+
+imagenes - se colocan de la siguiente manera: <img src="" alt="">
+
+vertical-align: top; -  se usa para alinear un div( o sea que lo que este dentro de este se alinea al siguiente div)
+
